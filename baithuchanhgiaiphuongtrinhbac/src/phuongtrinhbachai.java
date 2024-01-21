@@ -20,12 +20,12 @@ public class phuongtrinhbachai {
         
             System.out.println("phuong trinh vo nghiem");
     
-       else if ( delta == 0);
+       else if( delta == 0)
        {
         x1 = x2 = (-b / 2*a);
         System.out.println(" phuong trinh co nghiem kep x1 = x2" + x1);
        }
-       else if (delta > 0)
+       else 
        {
         x1 = (-b + Math.sqrt(delta) / 2*a);
         x2 = (-b - Math.sqrt(delta) / 2*a);
