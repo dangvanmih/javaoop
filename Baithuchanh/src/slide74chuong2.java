@@ -16,7 +16,7 @@ public class slide74chuong2 {
            System.out.println("nhap phan tu cho mang: ");
            for(int i = 0 ; i < n ; i++)
            {
-            System.out.print("nhap phan tu thu " +i +":");
+            System.out.println("nhap phan tu thu " +i +":");
             A[i] = sc.nextInt();
            }
            for(int i = 0 ; i < n ; i++)
