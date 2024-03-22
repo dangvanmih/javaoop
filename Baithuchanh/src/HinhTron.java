@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class HinhTron {
+public class Hinhtron{
     // thuộc tính của hình tròn
     public double banKinh;
     public double chuVi;
