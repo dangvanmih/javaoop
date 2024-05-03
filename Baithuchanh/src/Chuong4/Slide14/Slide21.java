@@ -3,7 +3,8 @@ import java.util.ArrayList;
 
 public class Slide21 {
     public static void main(String[] args) {
-        ArrayList<String> person = new ArrayList<String>(4);
+        ArrayList<String> person = new ArrayList<String>(3
+    );
         person.add("Tay");
         person.add("Chan");
         person.add("Mat");
