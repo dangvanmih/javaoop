@@ -1,4 +1,4 @@
-package Chuong4.Slide14;
+package Chuong4.Slide;
 
 import java.util.Scanner;
 import java.util.TreeSet;
@@ -25,7 +25,6 @@ public class Slide70 {
             treeSetiIntegers.add(number);
             System.out.println("Them tu tu thanh cong");
             System.out.println("Cac phan tu trong treeSeInteger sau khi them vao: " + treeSetiIntegers);
-
         }
         else { 
             System.out.println("Phan tu " + number + " da ton tai");
