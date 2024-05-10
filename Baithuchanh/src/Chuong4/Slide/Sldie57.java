@@ -1,4 +1,4 @@
-package Chuong4.Slide14;
+package Chuong4.Slide;
 
 import java.util.HashSet;
 import java.util.Scanner;
@@ -28,8 +28,6 @@ public class Sldie57 {
         }
         else {
             System.out.println("Xoa khong thanh cong");
-        }
-
-        
+        }   
     }
 }
