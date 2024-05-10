@@ -1,4 +1,4 @@
-package Chuong4.Slide14;
+package Chuong4.Slide;
 
 import java.awt.List;
 import java.util.LinkedList;
@@ -10,7 +10,6 @@ public class Slide38 {
         List.add("C++");
         List.add("PHP");
         List.add("JAVA");
-
         System.out.println("su dung phuong thuc  addall()");
         System.out.println("===================================");
         LinkedList<String> listA = new LinkedList<>();
