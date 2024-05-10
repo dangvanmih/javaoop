@@ -1,4 +1,4 @@
-package Chuong4.Slide14;
+package Chuong4.Slide;
 
 import java.util.HashSet;
 import java.util.Scanner;
@@ -28,6 +28,7 @@ public class Slide55 {
                 System.out.println("Cac phan tu trong hashSetInt sau khi them: " + hashSetInt);
             }
             else {
+                
                 System.out.println("Phan tu " + number + " da ton tai");
             }
         }
