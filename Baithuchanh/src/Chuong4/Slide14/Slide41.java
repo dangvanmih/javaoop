@@ -30,7 +30,7 @@ public class Slide41 {
             System.out.println("Phan tu co chi so = " + index + " trong linkedlist la " + node);
             String firstNode = linkedList.getFirst();
             String LastNode = linkedList.getLast();
-            System.out.println("Phan tu dau tien trong danh sach la: " + firstNode + " Phan tu cuoi cung trong danh sach la" + LastNode);
+            System.out.println("Phan tu dau tien trong danh sach la: " + firstNode + " Phan tu cuoi cung trong danh sach la: " + LastNode);
         }
 
 
