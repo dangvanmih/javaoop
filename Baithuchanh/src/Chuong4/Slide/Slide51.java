@@ -1,4 +1,4 @@
-package Chuong4.Slide14;
+package Chuong4.Slide;
 
 import java.util.HashSet;
 import java.util.TreeSet;
@@ -13,7 +13,6 @@ public class Slide51 {
         HashSet<String> hashSetString = new HashSet<>(16, 0.75f);
         // khai bao mot HashSet duoc tao thanh tu mot collection khac
         HashSet<Float> hashSetFloat = new HashSet<>(new TreeSet<>());
-
 
     }
     
