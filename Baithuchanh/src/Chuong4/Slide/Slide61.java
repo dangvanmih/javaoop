@@ -1,4 +1,4 @@
-package Chuong4.Slide14;
+package Chuong4.Slide;
 
 import java.util.LinkedHashSet;
 import java.util.Set;
@@ -13,6 +13,5 @@ public class Slide61 {
         for(String str : LinkedhashSet) {
             System.out.println(str);
         }
-    }
-    
+    }   
 }
