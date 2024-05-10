@@ -1,4 +1,4 @@
-package Chuong4.Slide14;
+package Chuong4.Slide;
 
 import java.util.ArrayList;
 
@@ -13,8 +13,7 @@ public class Slide18 {
         Iterator<Float> iterator = arrayListfFloats.iterator();
         System.out.println("Cac phan tu co trong arraylistfloat la");
         while (iterator.hasNext()) {
-            System.out.println(iterator.next() + "\t");
-            
+            System.out.println(iterator.next() + "\t"); 
         }
     }
     
