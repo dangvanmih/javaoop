@@ -1,4 +1,4 @@
-package Chuong4.Slide14;
+package Chuong4.Slide;
 import java.util.ArrayList;
 import java.util.Scanner;
 public class Slide23 {
@@ -21,5 +21,8 @@ public class Slide23 {
         }
         System.out.println("Phan tu lon nhat trong arraylistinteger la " + max);
     }
+
     
 }
+
+
