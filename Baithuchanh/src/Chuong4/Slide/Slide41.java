@@ -1,4 +1,4 @@
-package Chuong4.Slide14;
+package Chuong4.Slide;
 
 import java.util.LinkedList;
 import java.util.Scanner;
@@ -23,7 +23,6 @@ public class Slide41 {
         int index = sc.nextInt();
         if((index < 0) || (index > (linkedList.size() - 1))) {
             System.out.println("Chi so phai lon hon 0 va nho hon" + (linkedList.size() - 1));
-
         } 
         else {
             String node = linkedList.get(index);
