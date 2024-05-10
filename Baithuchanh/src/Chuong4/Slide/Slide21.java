@@ -1,4 +1,4 @@
-package Chuong4.Slide14;
+package Chuong4.Slide;
 import java.util.ArrayList;
 
 public class Slide21 {
@@ -10,12 +10,12 @@ public class Slide21 {
         person.add("Mat");
         person.add("Mui");
         person.add("tai");
-
-
         System.out.println(person.get(1));
         System.out.println(person.contains("Chan"));
         System.out.println(person.size());
         System.out.println(person);
     }
+   
     
 }
+
