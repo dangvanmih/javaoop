@@ -21,13 +21,14 @@ public class Slide55 {
             System.out.println("Nhap phan tu can them: ");
             number = sc.nextInt();
             //them mot phan tu moi nhap tu ban phim
+            // neu phan tu do ton tai thi thong bao da ton tai nguoc lai thi them vao
             if(!hashSetInt.contains(number)) {
                 hashSetInt.add(number);
                 System.out.println("Them phan tu thanh cong");
                 System.out.println("Cac phan tu trong hashSetInt sau khi them: " + hashSetInt);
             }
             else {
-                System.out.println("Phan tu" + number + "da ton tai");
+                System.out.println("Phan tu " + number + " da ton tai");
             }
         }
     }
