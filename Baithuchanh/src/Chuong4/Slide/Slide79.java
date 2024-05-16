@@ -21,7 +21,6 @@ class Slide79 {
         // khai bao 1 HashMap duoc tao thanh tu mot collection khac
         HashMap<Float, Integer> hashMap4 = new HashMap<>( new TreeMap<>());
 
-        
     }
 
     
