@@ -12,8 +12,7 @@ public class Slide95 {
         System.out.println(m.getKey()+ " " +m.getValue());
         System.out.println("Truoc khi xoa phan tu" + hm);
         hm.remove(101);
-        System.out.println("Sau khi xoa phan tu" + hm);
-        
+        System.out.println("Sau khi xoa phan tu" + hm);     
 
     }
     
