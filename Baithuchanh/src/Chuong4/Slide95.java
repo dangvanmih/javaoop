@@ -2,7 +2,6 @@ package Chuong4;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
-
 public class Slide95 { 
     public static void main(String[] args) {
         LinkedHashMap<Integer, String> hm = new LinkedHashMap<Integer, String>();
