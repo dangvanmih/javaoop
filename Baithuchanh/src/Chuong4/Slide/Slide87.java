@@ -3,10 +3,6 @@ package Chuong4.Slide;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
-
-/**
- * Slide87
- */
 public class Slide87 {
 
     public static void main(String[] args) {
