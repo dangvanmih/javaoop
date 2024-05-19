@@ -1,5 +1,4 @@
 package Chuong4.Slide;
-
 import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
@@ -18,7 +17,7 @@ public class Slide109 {
         treeMap.replace(4, 22.2d);
         System.out.println("Cac phan tu trong setTreeMap sau khi bi thay the: " );
         setTreeMap = treeMap.entrySet();
-        System.out.println(setTreeMap);
+        System.out.println(setTreeMap );
     }
     
 }
