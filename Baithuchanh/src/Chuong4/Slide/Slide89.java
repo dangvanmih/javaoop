@@ -3,7 +3,6 @@ package Chuong4.Slide;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
-
 public class Slide89 {
     public static void main(String[] args) {
         HashMap<String, String> hashMapCity = new HashMap<>();
@@ -28,5 +27,7 @@ public class Slide89 {
         if(hashMapCity.containsKey("Thanh Pho Ho Chi Minh"));
         System.out.println("Co Thanh Pho Ho Chi Minh trong hashMapCity");
     }
+  
     
 }
+
