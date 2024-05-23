@@ -13,9 +13,6 @@ public class TestStudent {
         System.out.println("Danh Sach Sinh Vien:");
         Student.Display(arrayListStudent);
 
-        Student.themthongtin(arrayListStudent);
-        Student.Display(arrayListStudent);
-
         Student.Update(arrayListStudent);
         System.out.println("Danh Sach Sinh Vien Sau Khi Thay Doi");
         Student.Display(arrayListStudent);

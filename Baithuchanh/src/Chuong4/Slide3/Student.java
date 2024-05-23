@@ -33,13 +33,11 @@ public class Student {
         FullName = sc.nextLine();
         System.out.print("Nhap tuoi sinh vien: ");
         Age = sc.nextInt(); 
+        System.out.println("Nhap thong tin can them:");
+        String std = sc.nextLine();
     }
-    public static void themthongtin(List<Student>listStudent) {
-        System.out.println("Nhap thong tin can them");
-        Scanner sc = new Scanner(System.in);
-        String themthongtin = sc.nextLine();
-
-    }
+   
+    
     //hien thi toan bo du lieu cac phan tu trong listStudent
     public static void Display(List<Student> listStudent) {
         for( int i = 0; i < listStudent.size(); i++) {
