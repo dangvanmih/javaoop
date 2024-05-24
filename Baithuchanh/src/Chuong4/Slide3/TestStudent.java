@@ -9,6 +9,7 @@ public class TestStudent {
         ArrayList<Student> arrayListStudent = new ArrayList<>();
         System.out.println("Nhap so Phan tu");
         int n = sc.nextInt();
+        
         Student.Add(arrayListStudent,n);
         System.out.println("Danh Sach Sinh Vien:");
         Student.Display(arrayListStudent);
