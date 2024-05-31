@@ -33,12 +33,11 @@ public class Student {
         FullName = sc.nextLine();
         System.out.print("Nhap tuoi sinh vien: ");
         Age = sc.nextInt(); 
-        System.out.println("Nhap thong tin can them:");
-        String std = sc.nextLine();
+        
     }
    
     
-    //hien thi toan bo du lieu cac phan tu trong listStudent
+    //hien thi toan bo du lieu trong listStudent
     public static void Display(List<Student> listStudent) {
         for( int i = 0; i < listStudent.size(); i++) {
             String fName = listStudent.get(i).FullName;
